@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LaboratoryWork6.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LaboratoryWork6.1.cpp
+C:\Users\dkhpr\Desktop\Labi\LaboratoryWork6\LaboratoryWork6\LaboratoryWork6.1.cpp(147,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LaboratoryWork6.vcxproj -> C:\Users\dkhpr\Desktop\Labi\LaboratoryWork6\x64\Debug\LaboratoryWork6.1.exe

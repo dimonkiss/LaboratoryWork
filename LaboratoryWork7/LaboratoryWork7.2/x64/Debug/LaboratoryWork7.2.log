@@ -1,0 +1,3 @@
+﻿  LaboratoryWork7.2.cpp
+C:\Users\dkhpr\Desktop\Labi\LaboratoryWorks\LaboratoryWork7\LaboratoryWork7.2\LaboratoryWork7.2.cpp(137,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LaboratoryWork7.2.vcxproj -> C:\Users\dkhpr\Desktop\Labi\LaboratoryWorks\LaboratoryWork7\x64\Debug\LaboratoryWork7.2.exe
